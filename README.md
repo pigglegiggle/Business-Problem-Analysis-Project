@@ -1,25 +1,14 @@
 # Visual Communication for Business Project
 
-## Course Information
+**Course**: 06036122 Visual Communication for Business (1/2024)
 
-- **Course Code**: 06036122
-- **Course Name**: Visual Communication for Business
-- **Semester**: 1/2024
+## Overview
 
-## Project Overview
+This project analyzes business problems, identifies their causes, and proposes solutions. Findings are presented through interactive dashboards.
 
-This project focuses on analyzing business problems, identifying their root causes, and proposing actionable solutions. The analysis is conducted using data from various sources, with findings presented through interactive dashboards.
+## Data Analysis
 
-## Objectives
-
-- Identify key business problems and their underlying causes.
-- Propose actionable solutions to address these problems.
-- Clean and organize data to ensure accuracy and clarity.
-- Create interactive dashboards to visualize findings and support decision-making.
-
-## Data
-
-The analysis utilizes data from [source name], which includes [brief description of the data]. The dataset is available in the repository and can be accessed as follows:
+The analysis utilizes data from [source name], which includes [brief description of the data]. Access the dataset here:
 
 - [Data File Name](path/to/data/file)
 
@@ -27,35 +16,35 @@ The analysis utilizes data from [source name], which includes [brief description
 
 1. **Data Cleaning**:
    - Removed duplicates and handled missing values.
-   - Standardized data formats for consistency.
+   - Standardized data formats.
 
 2. **Data Analysis**:
-   - Conducted exploratory data analysis (EDA) to identify patterns and trends.
-   - Applied statistical methods to test hypotheses.
+   - Conducted exploratory data analysis (EDA).
+   - Applied statistical methods.
 
 3. **Visualization**:
-   - Developed interactive dashboards using Power BI to present findings.
+   - Developed interactive dashboards using Power BI.
 
 ## Results
 
-The analysis revealed the following key insights:
+Key insights include:
 
 - [Insight 1]
 - [Insight 2]
 - [Insight 3]
 
-For a detailed view of the findings, refer to the interactive dashboards:
+View the interactive dashboards:
 
 - [Dashboard 1](path/to/dashboard1)
 - [Dashboard 2](path/to/dashboard2)
 
 ## Conclusion
 
-This project provides valuable insights into [specific business area], offering actionable recommendations to improve [specific aspect]. The interactive dashboards serve as a tool for stakeholders to explore the data and make informed decisions.
+This project offers insights into [specific business area], with recommendations to improve [specific aspect]. The dashboards help stakeholders explore data and make informed decisions.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
