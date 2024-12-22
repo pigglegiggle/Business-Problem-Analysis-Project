@@ -1,12 +1,14 @@
-# Business-Problem-Analysis-Project
+# Visual Communication for Business Project
 
-## Overview
+## Course Information
+
+- **Course Code**: 06036122
+- **Course Name**: Visual Communication for Business
+- **Semester**: 1/2024
+
+## Project Overview
 
 This project focuses on analyzing business problems, identifying their root causes, and proposing actionable solutions. The analysis is conducted using data from various sources, with findings presented through interactive dashboards.
-
-## Project Status
-
-- **Status**: Completed
 
 ## Objectives
 
